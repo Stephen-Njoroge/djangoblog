@@ -1,0 +1,2 @@
+# djangoblog
+Practicing django framework
